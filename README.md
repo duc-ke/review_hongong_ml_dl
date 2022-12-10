@@ -1,8 +1,8 @@
 # review_hongong_ml_dl
 혼자 공부하는 머신러닝 + 딥러닝 (한빛미디어, 박해선 저)를 보면서 스터디 &amp; 코드 리뷰
 
-<p align="center">
-<img src="https://github.com/duc-ke/DNN_CV_complete_guide/blob/main/imgs/modu_img.png" width="400" align="center">
+<p align="left">
+<img src="https://github.com/duc-ke/review_hongong_ml_dl/blob/main/data/book.webp" width="400" align="center">
 </p>
 
 ## 책의 평가
@@ -15,3 +15,5 @@
 1. ml algorithms 중 KNeighbors를 이용한 분류
 2. dataset split과 scailng의 필요성
 3. -
+
+
