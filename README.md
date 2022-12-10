@@ -1,6 +1,10 @@
 # review_hongong_ml_dl
 혼자 공부하는 머신러닝 + 딥러닝 (한빛미디어, 박해선 저)를 보면서 스터디 &amp; 코드 리뷰
 
+<p align="center">
+<img src="https://github.com/duc-ke/DNN_CV_complete_guide/blob/main/imgs/modu_img.png" width="400" align="center">
+</p>
+
 ## 책의 평가
 * 아주 쉬운 난이도
 * 그러나 챕터별로 연결이 되는 스토리 라인, 따라가다 보면 그안에 잊고 있었던 이유와 원리가 자연스레 이해 됨.
